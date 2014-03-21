@@ -125,7 +125,7 @@
  * "FieldClass1.php" in your module folder.
  */
 array_insert($GLOBALS['TL_FFL'], 12, array(
-        'obfuscatedhiddenfield' => 'FormHiddenObfuscated'
+        'hiddenobfuscatedfield' => 'FormHiddenObfuscated'
     )
 );
 
